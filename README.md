@@ -1,5 +1,4 @@
 # Guia de testes iOS
--
 
 ## Objetivo
 O objetivo deste documento é organizar uma séries de posts e um único local para tornar fácil o entendimento de testes.
@@ -172,7 +171,7 @@ Antigo FBSnapshotTestCase, o [iOSSnapshotTestCase] (https://github.com/uber/ios-
 
 ## Testes na prática
 
-Os exemplos abaixo foram tirados de posts do medium e traduzidos. Alguns podem não executar por diversos mas o importante é entender a essencia do teste e o motivo.
+Abaixo seguem alguns exemplos de posts no medium em inglês. Alguns podem não executar por diversos motivos mas o importante é entender a essencia do teste e o objetivo.
 
 * [Unit Testing — UIView with Nimble+Snapshot] (https://medium.com/cocoaacademymag/unit-testing-uiview-with-nimble-snapshot-651a7c5a5e93)
 * [Unit Testing — Parsing a JSON response] (https://medium.com/cocoaacademymag/unit-testing-parsing-a-json-response-b694a1b669ff)
